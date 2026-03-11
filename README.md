@@ -52,6 +52,6 @@
 - або посилання на дизайн у Canva.
 
 Приклад
-<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/4f82c42e-d7b9-4dc8-a669-82e239cd24a9" />
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/9a93c9fc-70bd-4cba-8457-1096ab3e49ba" />
 
 ---
